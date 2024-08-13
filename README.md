@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41658b80-3772-4777-876d-ca978547b0af" width="720" height="500"/>
+  <img src="https://github.com/user-attachments/assets/0b7fc8fa-4896-4f7e-bd48-8fe8364fae09" width="720" height="500"/>
 </p>
 
 ## 일정

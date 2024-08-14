@@ -1,3 +1,9 @@
+# 모던 자바스크립트 딥다이브 스터디 1회: Chapter1-7 질의응답
+
+## 질문 목록
+
+- [Issue 🎯](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/1)
+
 ## 2장
 
 <aside>
@@ -108,7 +114,7 @@
   - 다양한 데이터 타입 처리 좋다
 - 이성훈
   - 타입스크립트: 더 빠르고 정확하게 하려고 나왔다!
-  ⇒ 동적타입언어 단점때문에 등장
+    ⇒ 동적타입언어 단점때문에 등장
 
 <aside>
 💡 심벌(Symbol) 타입이 실제로 사용되는 예시가 더 있을까요?
@@ -116,7 +122,9 @@
 </aside>
 
 - 김주영
+
   - **객체의 비공개 속성(Private Properties) 생성:**심벌을 이용해 객체의 비공개 속성을 정의할 수 있다. 이렇게 하면 일반적인 문자열 키와 달리 접근이 제한된 속성을 만들 수 있다.
+
   ```jsx
   const privateId = Symbol("id");
   const user = {
@@ -127,9 +135,13 @@
   console.log(user[privateId]); // 12345
   console.log(user.id); // undefined (접근 불가)
   ```
+
 - 김민정
+
   - 고유한 객체 속성 키
+
     - 다른 코드에서 접근 또는 수정 불가능
+
     ```
     const uniqueId = Symbol("id");
 
@@ -152,7 +164,9 @@
     console.log(Object.getOwnPropertySymbols(user)); // [Symbol(id)]
 
     ```
+
     - 상수와 같은 고유 값
+
     ```
     const STATUS_PENDING = Symbol("pending");
     const STATUS_COMPLETED = Symbol("completed");

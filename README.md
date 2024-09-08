@@ -8,11 +8,10 @@
 
 ## 스터디원
 
-- 김민정/minjeong
-- 김민석
-- 김주영
-- 이성훈
-- 조천산
+| **김민정** | **김민석** | **김주영** | **이성훈** | **조천산** |
+| :------: | :------: | :------: | :------: | :------: |
+| [<img src="https://github.com/minjeongss.png" > <br/> @minjeong](https://github.com/minjeongss) | [<img src="https://github.com/se0kcess.png" > <br/> @minseok](https://github.com/se0kcess) | [<img src="https://github.com/kimjuyoung99.png" > <br/> @juyoung](https://github.com/kimjuyoung99) | [<img src="https://github.com/shlee9999.png" > <br/> @seonghoon](https://github.com/shlee9999) | [<img src="https://github.com/joarthvr.png" > <br/> @cheonsan](https://github.com/joarthvr) |
+
 
 ## 방식
 

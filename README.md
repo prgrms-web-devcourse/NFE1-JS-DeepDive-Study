@@ -8,9 +8,9 @@
 
 ### 일정표
 
-| 주차  |    날짜    |       챕터        | 발표자 | 분석 모음                                                                                           | 질의응답 모음                                                                              | 참고 자료         |
-| :---: | :--------: | :---------------: | :----: | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :---------------- |
-| 1주차 | 2024.08.14 | OT 및 Chapter 1-7 | 김민정 | [1주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter1-7)   | [1주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/1)  | OT 자료           |
+| 주차  |    날짜    |       챕터        | 발표자 | 분석 모음                                                                                           | 질의응답 모음                                                                              | 참고 자료                                                                                                                                                            |
+| :---: | :--------: | :---------------: | :----: | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1주차 | 2024.08.14 | OT 및 Chapter 1-7 | 김민정 | [1주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter1-7)   | [1주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/1)  | [OT 자료](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/blob/main/OT-%EC%9E%90%EB%A3%8C.pdf)                                                        |
 | 2주차 | 2024.08.21 |   Chapter 8-14    | 김민석 | [2주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter8-14)  | [2주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/13) |
 | 3주차 | 2024.08.28 |   Chapter 15-19   | 김주영 | [3주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter15-19) | [3주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/19) |
 | 4주차 | 2024.09.04 |   Chapter 20-24   | 이성훈 | [4주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter20-24) | [4주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/28) |
@@ -18,7 +18,7 @@
 | 6주차 | 2024.09.25 |   Chapter 28-37   | 김민정 | [6주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter28-37) | [6주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/47) |
 | 7주차 | 2024.10.02 |   Chapter 38-39   | 김민석 | [7주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter38-39) | [7주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/53) |
 | 8주차 | 2024.10.09 |   Chapter 40-46   | 김주영 | [8주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter40-46) | [8주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/59) |
-| 9주차 | 2024.10.16 |   Chapter 47-49   | 이성훈 | [9주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter47-49) | [9주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/66) | 최종 및 회고 자료 |
+| 9주차 | 2024.10.16 |   Chapter 47-49   | 이성훈 | [9주차 분석](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/tree/main/Chapter47-49) | [9주차 질의응답](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/issues/66) | [최종 및 회고 자료](https://github.com/prgrms-web-devcourse/NFE1-JS-DeepDive-Study/blob/main/%EC%B5%9C%EC%A2%85-%EB%B0%8F-%ED%9A%8C%EA%B3%A0-%EC%9E%90%EB%A3%8C.pdf) |
 
 ## 스터디원
 
